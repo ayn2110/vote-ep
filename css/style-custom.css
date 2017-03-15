@@ -1,0 +1,92 @@
+h1 {
+   font-family: "Helvetica Neue", Helvetica, Arial, "微軟正黑體", sans-serif;
+   font-weight: bold;
+   /*font-size: 24px;*/
+   text-align: center;
+}
+h3 {
+   font-family: "Helvetica Neue", Helvetica, Arial, "微軟正黑體", sans-serif;
+   font-weight: bold;
+   text-align: center;
+}
+.helper {
+   display: inline-block;
+   vertical-align: middle;
+   height: 100%;
+}
+.imgIcon {
+   vertical-align: middle;
+   /*height: 64px;
+   width:  64px;*/
+   max-height: 64px;
+   max-width:  64px;
+}
+.imgTitle {
+   vertical-align: middle;
+   /*width: 100%;*/
+}
+.imgQRcode {
+   vertical-align: middle;
+   max-height: 100px;
+   max-width:  100px;
+}
+.vote_Action {
+   text-align: center;
+   white-space: nowrap;
+   vertical-align: middle;
+   height: 100%;
+}
+.vote-button {
+   margin-top: 8px;
+}
+.custom-label {
+   /*background-color: red;
+   display: block;
+   position: static;*/
+}
+.alCenter {
+   text-align: center;
+}
+.default_Hide {
+   display: none;
+}
+.action-back {
+   content:url('../images/left224.png');
+}
+.action-layout {
+   content:url('../images/four60-fix.png');
+}
+.action-list {
+   content:url('../images/list30.png');
+}
+.active-item {
+   /*border: 1px dashed #E91E63;*/
+   /*border-left: 5px solid #E91E63;*/
+   /*border-right: 2px solid #E91E63;*/
+   border-top: 5px solid #E91E63;
+   cursor: pointer;
+}
+.event-item {
+   /*background-color: AliceBlue ;*/
+}
+.event-title {
+   padding-top: 10px;
+   margin-top: -20px;
+   display: block;
+   color: #8DC63F !important; /* 主要綠色 */
+}
+.fullSize {
+   width: 1075px !important;
+   /*width: 100% !important;
+   max-width: 1075px;
+   min-width: 250px;*/
+}
+.Homepage_Counter{
+   font-size: 50pt;
+}
+.no-close .ui-dialog-titlebar-close {
+   display: none;
+}
+.list .vote-end-date {
+   width: 120px;
+}
